@@ -1,2 +1,2 @@
-nAlex, 12
+Alex, 12
 amy , 13
